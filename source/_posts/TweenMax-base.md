@@ -30,6 +30,8 @@ t.to(box, 2, { rotation: 180 });
 t.to(box, 2, { opacity: 0 });
 ```
 
+<!--more-->
+
 ## play()、stop()、reverse()、clear()
 
 分别表示：`开始运动`、`停止运动`、`反转运动`、`清除动画`
