@@ -32,6 +32,7 @@ tags: 前端开发
 
 ## 知乎
 > * [知乎上前端开发领域有哪些值得推荐的问答？](http://www.zhihu.com/question/20246142)
+> * [前端界有哪些越早知道越好的小技巧小知识？](https://www.zhihu.com/question/43687153)
 > * [你见过哪些令你瞠目结舌的 JavaScript 奇技淫巧？](https://www.zhihu.com/question/37904806)
 > * [你见过哪些令你瞠目结舌的 Java 奇技淫巧？](https://www.zhihu.com/question/37760140)
 > * [你见过哪些令你瞠目结舌的 C/C++ 奇技淫巧？](https://www.zhihu.com/question/37692782)

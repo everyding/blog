@@ -4,6 +4,37 @@ date: 2016-04-15 13:47:12
 tags: CSS锦囊妙计
 ---
 
+## 让一个块级元素在某区域内居中（水平和垂直），兼容IE8+
+
+```html
+<div class="container">
+    <div class="box"></div>
+</div>
+
+.container{
+    width: 300px;
+    height: 300px;
+    border: 1px #000 solid;
+
+    position: relative;
+}
+
+.box{
+    width: 50px;
+    height: 50px;
+    border: 1px #000 solid;
+
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+}
+```
+
+## 在 `Chrome` 浏览器的 `Elements` 里面选中某个元素，按 `H` 可以隐藏该元素。
+
 ## 文字换行
 
 ```css
