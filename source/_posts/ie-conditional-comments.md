@@ -55,4 +55,4 @@ gte 大于或者等于
 () 子表达式
 ```
 
-参考资料：[Microsoft MSDN – About Conditional Comments](https://msdn.microsoft.com/en-us/library/ms537512\(VS.85\).aspx)
+参考资料：https://msdn.microsoft.com/en-us/library/ms537512\(VS.85\).aspx

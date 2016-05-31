@@ -17,10 +17,11 @@ tags: 侃侃
 
 工欲善其事必先利其器，找到一款适合自己的 **`IDE`**（诸如前端常用的开发工具：`WebStorm`、`Sublime Text`、`ATOM`都是比较不错的），第一时间把它常用的快捷键（`单行注释`、`多行注释`、`取消注释`、`转到定义`、`前进`、`后退`、`代码格式化`、`查找替换`...）掌握提高开发效率。
 
+<!--more-->
+
 **搜索**这个技能十分重要，对于一些比较陈旧的技术问题我们可以直接`百度一下`（诸如安装xxx拓展，百度的图解就能够方便搞定，也顺带支持下国产，当然对于医院搜索要慎用，我们智慧的程序员写了一个插件专门[过滤莆田医院](https://github.com/hustcc/PTHospital.chrome/blob/master/README.md )），这里我直接推荐 `Google`（不能FQ的同学可以通过定期改[hosts](http://laod.cn/hosts/2016-google-hosts.html)方式，当然自己花钱买VPN最完美了）。
 
 **欲精一行，必先通十行**，前端工程师需要了解后端（`Nodejs`、`PHP`、`Java`、`python`）？前端工程师需要了解数据库（`MySQL`、`SQL Server`、`Oracle`）？前端工程师需要了解服务器端（`Apache`、`Nginx`、`Tomcat`）？
 
 ![当使用正则表达式返回了想要的结果时程序员的样子](reg.gif)
 
-<!--more-->
