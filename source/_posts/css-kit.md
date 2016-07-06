@@ -4,6 +4,10 @@ date: 2016-04-15 13:47:12
 tags: CSS锦囊妙计
 ---
 
+## a伪类顺序
+
+喜欢（love）和讨厌（hate），l(:link)ov(:visited)e，h(:hover)a(:active)te
+
 ## 让一个块级元素在某区域内居中（水平和垂直），兼容IE8+
 
 ```html
