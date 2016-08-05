@@ -14,6 +14,9 @@ import java.io.File; //导入File类
 File f1 = new File("example.txt");
 ```
 
+<!--more-->
+
+
 比如我们在 `.NET` 中需要对文件操作，就需要对文件进行操作，就需要引入命名空间 `System.IO`
 
 ```csharp
